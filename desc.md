@@ -1,10 +1,14 @@
-### Neopad
+### Core
 - RTE
-- User profile 
-- Create, edit, search & delete docs
+- User account
+- Create, open, save, search, delete docs 
+- Markdown & txt support 
 - Export PDF
 
 ### System 
 - Autosave 
-- Settings & notifications
-- Word count 
+- Word & character count
+- Syntax highlighting  
+- Find & replace 
+
+
