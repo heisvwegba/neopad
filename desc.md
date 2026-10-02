@@ -2,13 +2,12 @@
 - RTE
 - User account
 - Create, open, save, search, delete docs 
-- Markdown & txt support 
-- Export PDF
+- .md, .txt support 
+- Export PDF 
 
 ### System 
 - Autosave 
-- Word & character count
-- Syntax highlighting  
+- Word and character count
 - Find & replace 
 
 
